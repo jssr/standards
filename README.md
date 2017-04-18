@@ -1,2 +1,3 @@
-# standards
+# Standards
+
 Recommended standards for JavaScript.
